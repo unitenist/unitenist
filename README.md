@@ -1,76 +1,101 @@
-<h1 align="center">Sermet Sandıkcı</h1>
-<h3 align="center">Project Manager · IT Manager · Product & Technology</h3>
+<div align="center">
 
-<p align="center">
-  <em>Unite Ideas. Build the Future.</em>
-</p>
+# Sermet Sandıkcı
 
-<p align="center">
-  <a href="https://sasayazilim.com"><img src="https://img.shields.io/badge/Website-sasayazilim.com-0A66C2?style=flat-square" /></a>
-  <img src="https://img.shields.io/badge/Stack-Laravel%20%7C%20Vue%203%20%7C%20TypeScript-FF2D20?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mobile-Capacitor-119EFF?style=flat-square" />
-</p>
+**Project Manager · IT Manager · Founder, SaSa Yazılım**
+
+*Unite Ideas. Build the Future.*
+
+[sasayazilim.com](https://sasayazilim.com) · Turkey
+
+</div>
 
 ---
 
 ## 🇬🇧 English
 
-### Turning ideas into working systems
+### Profile
 
-I'm a full-stack developer and the **founder of SaSa Yazılım**, a software company in Turkey. I sit at the intersection of product, engineering and business — building the systems that let real companies run better, from first idea to production.
+I lead the intersection of **business, technology and people**. As the **founder of SaSa Yazılım**, I've spent several years taking a business management platform from concept to a live, revenue-generating ERP ecosystem — owning it as product manager, IT manager and lead engineer at once.
 
-### 🚀 SaSa ERP — my flagship product
+My work is not about writing code for its own sake. It's about **structuring the right project, choosing the right architecture, and delivering a system a business can actually run on.**
 
-**SaSa ERP** is a comprehensive business management platform I've built and grown over several years, sold to individual companies with isolated, per-customer deployments.
+### Core Competencies
+
+| Area | What I Do |
+|---|---|
+| **Project Management** | Idea → scope → delivery → iteration, for both internal product and client engagements |
+| **IT Management** | Infrastructure, deployment automation, security, and operational continuity across multi-tenant environments |
+| **ERP & Business Systems** | Architecting systems that unify Sales, Finance, Inventory, CRM and Operations |
+| **Product Ownership** | Roadmap, positioning and go-to-market for a product sold into a competitive SME market |
+
+### Flagship Product — SaSa ERP
+
+A comprehensive business management platform, built and led from the ground up, sold to individual companies via isolated, per-customer deployments.
 
 - **Modules:** Sales · Inventory · Finance · CRM · E-Commerce · E-Invoice (e-Fatura) · Reporting
-- **Stack:** Laravel · Vue 3 · TypeScript · Capacitor
-- **Architecture:** multi-provider e-invoice integration (factory/interface pattern), automated per-client deployment tooling, native mobile distribution via Capacitor with push notifications
-- **Positioning:** built as a modern, migration-friendly alternative for Turkey's SME market, competing with established players like SAP, Logo and Netsis
+- **Technology:** Laravel · Vue 3 · TypeScript · Capacitor
+- **Delivery:** multi-provider e-invoice architecture, automated per-client deployment tooling, native mobile distribution with push notifications
+- **Market position:** a modern, migration-friendly alternative for Turkey's SME segment, positioned against established players such as SAP, Logo and Netsis — backed by investor-facing materials and a dedicated corporate site
 
-I own this product end-to-end — from architecture and backend/frontend development to deployment automation, UI/UX, and go-to-market (website, investor decks, demos).
+I run this end-to-end: architecture decisions, engineering, deployment operations, UI/UX, and the business case that sells it.
 
-### 🏢 Beyond the product
+### Beyond the Core Product
 
-Alongside SaSa ERP, I build and maintain the technology behind **Sabaş**, a multi-branch retail company (home appliances & furniture — Beko, İstikbal, Kelebek) with its own e-commerce platform at [sabashome.com](https://sabashome.com), including custom integrations, scrapers and internal APIs. I also take on select freelance engineering work in interior design, agricultural management and taxi dispatch systems.
+- **Sabaş (retail, multi-branch):** own the technology layer for a home-appliance and furniture retailer (Beko, İstikbal, Kelebek), including its e-commerce platform, ERP/API integrations (Entegra, DIA), pricing intelligence, and server operations.
+- **Selective engagements:** brought in as a technical lead on projects spanning agricultural production management, dispatch/logistics tracking, and vertical-specific SaaS tools — each managed the same way: understand the operational problem first, then build the system around it.
 
-### 🧠 How I work
+### Approach
 
 > **Technology is not the goal. Solving the right problem is.**
 
-Good systems should make businesses simpler, faster and more measurable — that principle drives everything I ship, whether it's a core ERP module or a small internal tool.
+Every engagement — whether it's a full ERP module or a focused integration — is measured by the same standard: does it make the business **simpler, faster, and more measurable.**
 
 ---
 
 ## 🇹🇷 Türkçe
 
-### Fikirleri çalışan sistemlere dönüştürüyorum
+### Profil
 
-**SaSa Yazılım**'ın kurucusu ve full-stack geliştiricisiyim. Ürün, mühendislik ve iş süreçlerinin kesişiminde çalışıyorum; fikirden canlı sisteme kadar şirketlerin daha iyi çalışmasını sağlayan platformlar kuruyorum.
+**İş dünyası, teknoloji ve insan** üçgeninin kesişiminde çalışıyorum. **SaSa Yazılım'ın kurucusu** olarak, bir iş yönetim platformunu fikir aşamasından canlı, gelir üreten bir ERP ekosistemine taşıdım — bu süreçte hem ürün yöneticisi, hem IT yöneticisi hem de baş mühendis rolünü üstlendim.
 
-### 🚀 SaSa ERP — amiral gemisi ürünüm
+Odağım sadece kod yazmak değil; **doğru projeyi kurgulamak, doğru mimariyi seçmek ve bir işletmenin gerçekten üzerinde çalışabileceği bir sistem teslim etmek.**
 
-**SaSa ERP**, yıllardır geliştirdiğim, her müşteri için izole deployment ile satılan kapsamlı bir işletme yönetim platformu.
+### Temel Yetkinlikler
+
+| Alan | Ne Yapıyorum |
+|---|---|
+| **Proje Yönetimi** | Fikirden kapsam belirlemeye, teslimden sürekli geliştirmeye — hem kendi ürünüm hem müşteri projeleri için |
+| **IT Yönetimi** | Altyapı, deployment otomasyonu, güvenlik ve çok müşterili ortamlarda operasyonel süreklilik |
+| **ERP & İş Sistemleri** | Satış, Finans, Stok, CRM ve Operasyonu birleştiren sistemlerin mimarisi |
+| **Ürün Sahipliği** | Rekabetçi bir SME pazarına satılan bir ürünün yol haritası, konumlandırması ve pazara sunumu |
+
+### Amiral Gemisi Ürün — SaSa ERP
+
+Sıfırdan kurup yönettiğim, her müşteri için izole deployment ile satılan kapsamlı bir işletme yönetim platformu.
 
 - **Modüller:** Satış · Stok · Finans · CRM · E-Ticaret · E-Fatura · Raporlama
-- **Teknolojiler:** Laravel · Vue 3 · TypeScript · Capacitor
-- **Mimari:** çoklu e-fatura sağlayıcı entegrasyonu (factory/interface deseni), otomatikleştirilmiş müşteri bazlı deployment, Capacitor ile native mobil dağıtım ve push bildirimleri
-- **Konumlandırma:** Türkiye SME pazarına yönelik, SAP, Logo ve Netsis gibi köklü oyunculara karşı modern ve geçiş dostu bir alternatif
+- **Teknoloji:** Laravel · Vue 3 · TypeScript · Capacitor
+- **Teslimat:** çoklu e-fatura sağlayıcı mimarisi, otomatikleştirilmiş müşteri bazlı deployment, push bildirimli native mobil dağıtım
+- **Pazar konumu:** Türkiye SME segmenti için, SAP, Logo ve Netsis gibi yerleşik oyunculara karşı modern ve geçiş dostu bir alternatif — yatırımcı sunumları ve kurumsal bir web sitesiyle destekleniyor
 
-Bu ürünü uçtan uca ben yönetiyorum — mimari, backend/frontend geliştirme, deployment otomasyonu, UI/UX ve pazarlamaya (web sitesi, yatırımcı sunumları, demolar) kadar.
+Bu ürünü uçtan uca ben yönetiyorum: mimari kararlar, mühendislik, deployment operasyonları, UI/UX ve ürünü satan iş modeli.
 
-### 🏢 Ürünün ötesinde
+### Ana Ürünün Ötesinde
 
-SaSa ERP'nin yanında, çok şubeli bir perakende şirketi olan **Sabaş**'ın (Beko, İstikbal, Kelebek gibi markalar) teknolojisini de geliştiriyorum; [sabashome.com](https://sabashome.com) üzerindeki e-ticaret platformu dahil, özel entegrasyonlar, scraper'lar ve dahili API'ler kuruyorum. Bunlara ek olarak iç mimarlık, tarım yönetimi ve taksi dispatch sistemleri alanlarında seçili freelance projeler alıyorum.
+- **Sabaş (çok şubeli perakende):** bir ev aletleri ve mobilya perakendecisinin (Beko, İstikbal, Kelebek) teknoloji katmanını yönetiyorum — e-ticaret platformu, ERP/API entegrasyonları (Entegra, DIA), fiyat zekası ve sunucu operasyonları dahil.
+- **Seçili projeler:** tarımsal üretim yönetimi, dispatch/lojistik takibi ve dikey odaklı SaaS araçları gibi alanlarda teknik lider olarak görev aldım — her birinde aynı yöntem: önce operasyonel problemi anlamak, sonra sistemi ona göre kurmak.
 
-### 🧠 Yaklaşımım
+### Yaklaşım
 
 > **Teknoloji amaç değil. Doğru problemi çözmek amaç.**
 
-İyi sistemler işletmeleri daha basit, daha hızlı ve daha ölçülebilir hale getirmeli — küçük bir iç araç olsun ya da temel bir ERP modülü olsun, geliştirdiğim her şeyde bu ilke var.
+Her proje — tam kapsamlı bir ERP modülü de olsa, odaklı bir entegrasyon da olsa — aynı standartla ölçülür: işletmeyi **daha basit, daha hızlı ve daha ölçülebilir** hale getiriyor mu?
 
 ---
 
-<p align="center">
-  <strong>UNITENIST</strong> — Unite Ideas. Build the Future.
-</p>
+<div align="center">
+
+**UNITENIST** — Unite Ideas. Build the Future.
+
+</div>
