@@ -12,7 +12,7 @@
 ![Role](https://img.shields.io/badge/Project%20%26%20IT%20Manager-0f766e?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Turkey-e11d48?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-[![Website](https://img.shields.io/badge/sasayazilim.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://sasayazilim.com.com)
+[![Website](https://img.shields.io/badge/sasayazilim.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://sasayazilim.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sermetsandikci/)
 
 </div>
@@ -21,13 +21,33 @@
 
 ## 🎯 Profile
 
+<details open>
+<summary><b>🇬🇧 English</b></summary>
+<br/>
+
 I operate at the intersection of **business strategy, IT operations and product engineering**. As **founder of SaSa Yazılım**, I took a business management platform from a blank page to a live, revenue-generating ERP sold across multiple companies — carrying the project manager, IT manager, and lead engineer roles simultaneously through every phase.
 
 I don't build technology for its own sake. I build **the system a business can actually run its operations on**, and I manage the project so it actually ships.
 
+</details>
+
+<details>
+<summary><b>🇹🇷 Türkçe</b></summary>
+<br/>
+
+**İş stratejisi, IT operasyonları ve ürün mühendisliğinin** kesişiminde çalışıyorum. **SaSa Yazılım'ın kurucusu** olarak, bir iş yönetim platformunu boş bir sayfadan, birden fazla şirkete satılan canlı ve gelir üreten bir ERP'ye taşıdım — bu süreç boyunca proje yöneticisi, IT yöneticisi ve baş mühendis rollerini aynı anda üstlendim.
+
+Teknolojiyi kendi adına yapmıyorum. Bir işletmenin **operasyonlarını gerçekten üzerinde yürütebileceği sistemi** kuruyorum ve projeyi gerçekten teslim edilecek şekilde yönetiyorum.
+
+</details>
+
 ---
 
 ## 🧭 Core Competencies
+
+<details open>
+<summary><b>🇬🇧 English</b></summary>
+<br/>
 
 <table>
 <tr>
@@ -67,6 +87,53 @@ I don't build technology for its own sake. I build **the system a business can a
 </td>
 </tr>
 </table>
+
+</details>
+
+<details>
+<summary><b>🇹🇷 Türkçe</b></summary>
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📋 Proje Yönetimi**
+- Hem iç ürün hem müşteri projeleri için kapsam belirleme, planlama ve teslimat
+- Kurucular, operasyon ekipleri ve son kullanıcılar arasında paydaş yönetimi
+- Yinelemeli teslimat — geliştirme, ölçme, iyileştirme
+
+</td>
+<td width="50%" valign="top">
+
+**🖥️ IT Yönetimi**
+- Çok müşterili altyapı ve deployment otomasyonu
+- Sunucu operasyonları, yedeklemeler ve ortam yapılandırması
+- Müşteri bazında güvenlik, uptime ve operasyonel süreklilik
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🏗️ ERP & İş Sistemleri**
+- Satış, Finans, Stok, CRM ve Operasyonu birleştiren sistemlerin mimarisi
+- Çoklu sağlayıcı entegrasyon tasarımı (e-fatura, ERP, e-ticaret API'leri)
+- Gerçek iş kurallarına dayalı komisyon, fiyatlandırma ve raporlama mantığı
+
+</td>
+<td width="50%" valign="top">
+
+**🚀 Ürün Sahipliği**
+- Yol haritası, konumlandırma ve pazara sunum
+- Yerleşik pazar oyuncularına karşı rekabetçi konumlandırma
+- Yatırımcı sunumları, demolar ve kurumsal marka çalışmaları
+
+</td>
+</tr>
+</table>
+
+</details>
 
 ---
 
