@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sabashome.com"><img src="https://img.shields.io/badge/Website-sabashome.com-0A66C2?style=flat-square" /></a>
+  <a href="https://sasayazilim.com"><img src="https://img.shields.io/badge/Website-sasayazilim.com-0A66C2?style=flat-square" /></a>
   <img src="https://img.shields.io/badge/Stack-Laravel%20%7C%20Vue%203%20%7C%20TypeScript-FF2D20?style=flat-square" />
   <img src="https://img.shields.io/badge/Mobile-Capacitor-119EFF?style=flat-square" />
 </p>
