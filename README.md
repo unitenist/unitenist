@@ -1,98 +1,136 @@
 # SER﻿MET SANDIKCI
-
-### Founder · Software Developer · Product Builder
-
-**UNITENIST — Unite Ideas. Build the Future.**
-
-[🇬🇧 English](#-english) · [🇹🇷 Türkçe](#-türkçe)
+*Unite Ideas. Build the Future.*
+### Project Manager · IT Manager · Product & Technology
 
 ---
 
-<a name="-english"></a>
+## 🇬🇧 ENGLISH
 
-## 🇬🇧 English
+### Turning ideas into systems.
 
-I build **software products, business systems and SaaS platforms** that turn real-world problems into practical technology.
+I'm a **Project & IT Manager** focused on building technology around real business needs.
 
-My work sits at the intersection of:
+I work between **business, technology and people** — turning complex requirements into structured projects, practical systems and scalable products.
 
-**Business × Software × Automation × AI**
+### What I Do
 
-### ⚡ What I Build
+**PROJECT MANAGEMENT**  
+From idea to implementation — planning, coordination, delivery and continuous improvement.
 
-**ERP & Business Systems**  
-Sales · Finance · Inventory · CRM · Reporting · E-Invoice
+**IT MANAGEMENT**  
+Technology infrastructure, business systems, integrations, security and operational processes.
 
-**SaaS & Platforms**  
-Multi-tenant systems · B2B · B2C · Subscription products
+**ERP & BUSINESS SYSTEMS**  
+Designing and managing systems that bring sales, finance, inventory, CRM and operations together.
 
-**Integrations & Automation**  
-APIs · E-commerce · Payments · Messaging · Business workflows
-
-### 🧩 Technology
-
-`PHP` `Laravel` `Vue` `TypeScript` `JavaScript` `MySQL` `Linux` `Git`
-
-### 🚀 Building
-
-**UNITENIST**  
-Technology, software products and ideas built to solve real business problems.
-
-**SASA ERP**  
-A business management platform connecting sales, inventory, finance, CRM and digital commerce.
-
-### 💡 Philosophy
-
-> **Don't build technology for technology's sake.  
-> Build something that makes life and business better.**
+**PRODUCT DEVELOPMENT**  
+Turning business problems into products people can actually use.
 
 ---
 
-<a name="-türkçe"></a>
+## 🚀 SASA ERP
 
-## 🇹🇷 Türkçe
+### From an idea to a working business platform.
 
-**Gerçek problemlere gerçek çözümler üreten yazılımlar ve ürünler geliştiriyorum.**
+I led the **startup and development of SASA ERP**, taking the project from its early stages into a live ERP ecosystem.
 
-Çalışmalarımın kesişim noktası:
+The platform brings together:
 
-**İş Dünyası × Yazılım × Otomasyon × Yapay Zekâ**
+`Sales` · `Inventory` · `Finance` · `CRM` · `E-Commerce` · `E-Invoice` · `Reporting`
 
-### ⚡ Ne Yapıyorum?
-
-**ERP & İş Yazılımları**  
-Satış · Finans · Stok · CRM · Raporlama · E-Fatura
-
-**SaaS & Platformlar**  
-Multi-tenant sistemler · B2B · B2C · Abonelik modelleri
-
-**Entegrasyon & Otomasyon**  
-API'ler · E-ticaret · Ödeme sistemleri · Mesajlaşma · İş süreçleri
-
-### 🧩 Teknoloji
-
-`PHP` `Laravel` `Vue` `TypeScript` `JavaScript` `MySQL` `Linux` `Git`
-
-### 🚀 Üzerinde Çalıştıklarım
-
-**UNITENIST**  
-Teknoloji, yazılım ürünleri ve gerçek iş problemlerine odaklanan çözümler.
-
-**SASA ERP**  
-Satış, stok, finans, CRM ve dijital ticareti tek bir sistemde birleştiren ERP platformu.
-
-### 💡 Bakış Açım
-
-> **Teknoloji için teknoloji geliştirmem.  
-> İşe yarayan, değer üreten ve hayatı kolaylaştıran sistemler geliştiririm.**
+My role sits at the intersection of **product, technology, business processes and project management.**
 
 ---
 
-## 🌐 UNITENIST
+## 🏢 UNITENIST
+
+UNITENIST is where I bring together **technology, ideas and business.**
+
+I focus on:
+
+- Business software
+- ERP & SaaS
+- Digital transformation
+- Automation
+- System integrations
+- Technology projects
+- New product ideas
+
+---
+
+### 🧠 My Approach
+
+> **Technology is not the goal.  
+> Solving the right problem is.**
+
+Good systems should make businesses **simpler, faster and more measurable.**
+
+---
+
+## 🇹🇷 TÜRKÇE
+
+### Fikirleri çalışan sistemlere dönüştürüyorum.
+
+**Proje ve IT Yöneticisi** olarak iş dünyası ile teknoloji arasında çalışıyorum.
+
+Karmaşık ihtiyaçları; **planlanabilir projelere, çalışan sistemlere ve sürdürülebilir ürünlere** dönüştürmeye odaklanıyorum.
+
+### Ne Yapıyorum?
+
+**PROJE YÖNETİMİ**  
+Fikirden canlı sisteme kadar planlama, koordinasyon, uygulama ve geliştirme.
+
+**IT YÖNETİMİ**  
+Altyapı, iş sistemleri, entegrasyonlar, güvenlik ve operasyonel süreçler.
+
+**ERP & İŞ SİSTEMLERİ**  
+Satış, finans, stok, CRM ve operasyonları bir araya getiren sistemlerin yönetimi.
+
+**ÜRÜN GELİŞTİRME**  
+Gerçek iş problemlerini kullanılabilir teknoloji ürünlerine dönüştürmek.
+
+---
+
+## 🚀 SASA ERP
+
+### Bir fikirden çalışan bir iş platformuna.
+
+**SASA ERP'nin startup ve geliştirme sürecini yönettim.**
+
+Projenin ilk aşamalarından başlayarak ürünün şekillenmesi, iş süreçlerinin sisteme aktarılması ve canlı bir ERP ekosistemine dönüşmesine kadar sürecin içerisinde yer aldım.
+
+`Satış` · `Stok` · `Finans` · `CRM` · `E-Ticaret` · `E-Fatura` · `Raporlama`
+
+---
+
+## 🏢 UNITENIST
+
+UNITENIST; **teknoloji, fikir ve iş dünyasını** bir araya getirdiğim kişisel teknoloji markam.
+
+Odak alanlarım:
+
+- İş yazılımları
+- ERP & SaaS
+- Dijital dönüşüm
+- Otomasyon
+- Sistem entegrasyonları
+- Teknoloji projeleri
+- Yeni ürün fikirleri
+
+---
+
+### 🧠 Yaklaşımım
+
+> **Teknoloji amaç değil.  
+> Doğru problemi çözmek amaç.**
+
+İyi sistemler işletmeleri **daha basit, daha hızlı ve daha ölçülebilir** hale getirmeli.
+
+---
+
+# UNITENIST
 
 ### **Unite Ideas. Build the Future.**
 
 **Sermet Sandıkcı**  
-Founder · Developer · Product Builder
-
----
+Project Manager · IT Manager · Product & Technology
