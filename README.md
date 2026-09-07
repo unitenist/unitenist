@@ -12,7 +12,7 @@
 ![Role](https://img.shields.io/badge/Project%20%26%20IT%20Manager-0f766e?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Turkey-e11d48?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-[![Website](https://img.shields.io/badge/sabashome.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://sasayazilim.com.com)
+[![Website](https://img.shields.io/badge/sasayazilim.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://sasayazilim.com.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sermetsandikci/)
 
 </div>
