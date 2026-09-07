@@ -1,101 +1,122 @@
 <div align="center">
 
-# Sermet Sandıkcı
+# 👋 Sermet Sandıkcı
 
-**Project Manager · IT Manager · Founder, SaSa Yazılım**
+### Founder & Product Owner @ SaSa Yazılım — Project Manager · IT Manager
 
-*Unite Ideas. Build the Future.*
+<em>Unite Ideas. Build the Future.</em>
 
-[sasayazilim.com](https://sasayazilim.com) · Turkey
+<br/>
+
+![Founder](https://img.shields.io/badge/Founder-SaSa%20Yazılım-1f2937?style=for-the-badge)
+![Role](https://img.shields.io/badge/Project%20%26%20IT%20Manager-0f766e?style=for-the-badge)
+![Location](https://img.shields.io/badge/Turkey-e11d48?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+[![Website](https://img.shields.io/badge/sabashome.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://sasayazilim.com.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sermetsandikci/)
 
 </div>
 
 ---
 
-## 🇬🇧 English
+## 🎯 Profile
 
-### Profile
+I operate at the intersection of **business strategy, IT operations and product engineering**. As **founder of SaSa Yazılım**, I took a business management platform from a blank page to a live, revenue-generating ERP sold across multiple companies — carrying the project manager, IT manager, and lead engineer roles simultaneously through every phase.
 
-I lead the intersection of **business, technology and people**. As the **founder of SaSa Yazılım**, I've spent several years taking a business management platform from concept to a live, revenue-generating ERP ecosystem — owning it as product manager, IT manager and lead engineer at once.
-
-My work is not about writing code for its own sake. It's about **structuring the right project, choosing the right architecture, and delivering a system a business can actually run on.**
-
-### Core Competencies
-
-| Area | What I Do |
-|---|---|
-| **Project Management** | Idea → scope → delivery → iteration, for both internal product and client engagements |
-| **IT Management** | Infrastructure, deployment automation, security, and operational continuity across multi-tenant environments |
-| **ERP & Business Systems** | Architecting systems that unify Sales, Finance, Inventory, CRM and Operations |
-| **Product Ownership** | Roadmap, positioning and go-to-market for a product sold into a competitive SME market |
-
-### Flagship Product — SaSa ERP
-
-A comprehensive business management platform, built and led from the ground up, sold to individual companies via isolated, per-customer deployments.
-
-- **Modules:** Sales · Inventory · Finance · CRM · E-Commerce · E-Invoice (e-Fatura) · Reporting
-- **Technology:** Laravel · Vue 3 · TypeScript · Capacitor
-- **Delivery:** multi-provider e-invoice architecture, automated per-client deployment tooling, native mobile distribution with push notifications
-- **Market position:** a modern, migration-friendly alternative for Turkey's SME segment, positioned against established players such as SAP, Logo and Netsis — backed by investor-facing materials and a dedicated corporate site
-
-I run this end-to-end: architecture decisions, engineering, deployment operations, UI/UX, and the business case that sells it.
-
-### Beyond the Core Product
-
-- **Sabaş (retail, multi-branch):** own the technology layer for a home-appliance and furniture retailer (Beko, İstikbal, Kelebek), including its e-commerce platform, ERP/API integrations (Entegra, DIA), pricing intelligence, and server operations.
-- **Selective engagements:** brought in as a technical lead on projects spanning agricultural production management, dispatch/logistics tracking, and vertical-specific SaaS tools — each managed the same way: understand the operational problem first, then build the system around it.
-
-### Approach
-
-> **Technology is not the goal. Solving the right problem is.**
-
-Every engagement — whether it's a full ERP module or a focused integration — is measured by the same standard: does it make the business **simpler, faster, and more measurable.**
+I don't build technology for its own sake. I build **the system a business can actually run its operations on**, and I manage the project so it actually ships.
 
 ---
 
-## 🇹🇷 Türkçe
+## 🧭 Core Competencies
 
-### Profil
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**İş dünyası, teknoloji ve insan** üçgeninin kesişiminde çalışıyorum. **SaSa Yazılım'ın kurucusu** olarak, bir iş yönetim platformunu fikir aşamasından canlı, gelir üreten bir ERP ekosistemine taşıdım — bu süreçte hem ürün yöneticisi, hem IT yöneticisi hem de baş mühendis rolünü üstlendim.
+**📋 Project Management**
+- Scoping, planning and delivery for both internal product and client engagements
+- Stakeholder management across founders, operations teams and end users
+- Iterative delivery — shipping, measuring, refining
 
-Odağım sadece kod yazmak değil; **doğru projeyi kurgulamak, doğru mimariyi seçmek ve bir işletmenin gerçekten üzerinde çalışabileceği bir sistem teslim etmek.**
+</td>
+<td width="50%" valign="top">
 
-### Temel Yetkinlikler
+**🖥️ IT Management**
+- Multi-tenant infrastructure and deployment automation
+- Server operations, backups, and environment configuration
+- Security, uptime and operational continuity across client instances
 
-| Alan | Ne Yapıyorum |
-|---|---|
-| **Proje Yönetimi** | Fikirden kapsam belirlemeye, teslimden sürekli geliştirmeye — hem kendi ürünüm hem müşteri projeleri için |
-| **IT Yönetimi** | Altyapı, deployment otomasyonu, güvenlik ve çok müşterili ortamlarda operasyonel süreklilik |
-| **ERP & İş Sistemleri** | Satış, Finans, Stok, CRM ve Operasyonu birleştiren sistemlerin mimarisi |
-| **Ürün Sahipliği** | Rekabetçi bir SME pazarına satılan bir ürünün yol haritası, konumlandırması ve pazara sunumu |
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Amiral Gemisi Ürün — SaSa ERP
+**🏗️ ERP & Business Systems**
+- Architecting systems that unify Sales, Finance, Inventory, CRM and Operations
+- Multi-provider integration design (e-invoice, ERP, e-commerce APIs)
+- Commission, pricing and reporting logic built around real business rules
 
-Sıfırdan kurup yönettiğim, her müşteri için izole deployment ile satılan kapsamlı bir işletme yönetim platformu.
+</td>
+<td width="50%" valign="top">
 
-- **Modüller:** Satış · Stok · Finans · CRM · E-Ticaret · E-Fatura · Raporlama
-- **Teknoloji:** Laravel · Vue 3 · TypeScript · Capacitor
-- **Teslimat:** çoklu e-fatura sağlayıcı mimarisi, otomatikleştirilmiş müşteri bazlı deployment, push bildirimli native mobil dağıtım
-- **Pazar konumu:** Türkiye SME segmenti için, SAP, Logo ve Netsis gibi yerleşik oyunculara karşı modern ve geçiş dostu bir alternatif — yatırımcı sunumları ve kurumsal bir web sitesiyle destekleniyor
+**🚀 Product Ownership**
+- Roadmap, positioning and go-to-market
+- Competitive positioning against established market players
+- Investor-facing materials, demos and corporate branding
 
-Bu ürünü uçtan uca ben yönetiyorum: mimari kararlar, mühendislik, deployment operasyonları, UI/UX ve ürünü satan iş modeli.
+</td>
+</tr>
+</table>
 
-### Ana Ürünün Ötesinde
+---
 
-- **Sabaş (çok şubeli perakende):** bir ev aletleri ve mobilya perakendecisinin (Beko, İstikbal, Kelebek) teknoloji katmanını yönetiyorum — e-ticaret platformu, ERP/API entegrasyonları (Entegra, DIA), fiyat zekası ve sunucu operasyonları dahil.
-- **Seçili projeler:** tarımsal üretim yönetimi, dispatch/lojistik takibi ve dikey odaklı SaaS araçları gibi alanlarda teknik lider olarak görev aldım — her birinde aynı yöntem: önce operasyonel problemi anlamak, sonra sistemi ona göre kurmak.
+## 🚀 Flagship Product — SaSa ERP
 
-### Yaklaşım
+**A comprehensive business management platform — conceived, built and led end-to-end.**
 
-> **Teknoloji amaç değil. Doğru problemi çözmek amaç.**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Her proje — tam kapsamlı bir ERP modülü de olsa, odaklı bir entegrasyon da olsa — aynı standartla ölçülür: işletmeyi **daha basit, daha hızlı ve daha ölçülebilir** hale getiriyor mu?
+**Modules:** Sales · Inventory · Finance · CRM · E-Commerce · E-Invoice (e-Fatura) · Reporting
+
+**What I own on this product:**
+- 🏛️ **Architecture** — multi-provider e-invoice system built on a factory/interface pattern, extended across providers without touching core logic
+- ⚙️ **Operations** — automated per-client deployment tooling for isolated, single-tenant instances
+- 📱 **Mobile** — native Android/iOS distribution via Capacitor, with push notifications and device-level integrations
+- 📈 **Go-to-market** — positioned as a modern, migration-friendly alternative to established players like **SAP, Logo and Netsis** for Turkey's SME market, backed by investor decks and a dedicated corporate site
+
+---
+
+## 🏢 Beyond the Core Product
+
+**Sabaş** — *Multi-branch retail (home appliances & furniture: Beko, İstikbal, Kelebek)*
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+- Own the full technology layer: e-commerce platform, ERP/API integrations (Entegra, DIA), pricing intelligence, and server operations
+- Built commission calculation systems spanning multiple branches with threshold-based bonuses and brand-specific rules
+
+**Selective technical leadership engagements**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+- Brought in as technical/project lead across agricultural production management, logistics/dispatch tracking, and vertical SaaS tools — every engagement led with the same discipline: understand the operation first, then design the system around it
+
+---
+
+## 🧠 Approach
+
+> **Technology is not the goal. Solving the right problem is.**
+
+Every engagement is measured against one standard — does it make the business **simpler, faster, and more measurable.**
 
 ---
 
 <div align="center">
 
-**UNITENIST** — Unite Ideas. Build the Future.
+**UNITENIST** — *Unite Ideas. Build the Future.*
 
 </div>
