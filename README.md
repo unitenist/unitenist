@@ -1,69 +1,146 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&width=600&lines=Sermet+Sandıkcı;Founder+%40+SaSa+Yazılım;Building+Systems%2C+Not+Just+Software" alt="Typing SVG" />
+# 👋 Sermet Sandıkcı
 
-<a href="https://unitenist.com" target="_blank"><img src="https://img.shields.io/badge/unitenist.com-0D9488?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
-<a href="https://sasayazilim.com" target="_blank"><img src="https://img.shields.io/badge/sasayazilim.com-1f2937?style=flat-square&logo=googlechrome&logoColor=white" alt="SaSa Yazılım"></a>
-<a href="https://www.linkedin.com/in/sermetsandikci/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+### Founder & Product Owner @ SaSa Yazılım — Project Manager · IT Manager
+
+<em>Unite Ideas. Build the Future.</em>
+
+<br/>
+
+![Founder](https://img.shields.io/badge/Founder-SaSa%20Yazılım-1f2937?style=for-the-badge)
+![Role](https://img.shields.io/badge/Project%20%26%20IT%20Manager-0f766e?style=for-the-badge)
+![Location](https://img.shields.io/badge/Turkey-e11d48?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+
+![Website](https://img.shields.io/badge/sasayazilim.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://sasayazilim.com)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sermetsandikci/)
 
 </div>
 
-<br>
+---
 
-<table align="center">
-<tr>
-<td align="center" width="200"><b>Rol</b><br/>Founder · PM · IT Manager</td>
-<td align="center" width="200"><b>Odak</b><br/>ERP & Business Systems</td>
-<td align="center" width="200"><b>Konum</b><br/>🇹🇷 Turkey</td>
-</tr>
-</table>
+## 🎯 Profile
+
+<details open>
+<summary><b>🇬🇧 English</b></summary>
+<br/>
+
+I operate at the intersection of **business strategy, IT operations and product engineering**. As **founder of SaSa Yazılım**, I took a business management platform from a blank page to a live, revenue-generating ERP sold across multiple companies — carrying the project manager, IT manager, and lead engineer roles simultaneously through every phase.
+
+I don't build technology for its own sake. I build **the system a business can actually run its operations on**, and I manage the project so it actually ships.
+
+</details>
+
+<details>
+<summary><b>🇹🇷 Türkçe</b></summary>
+<br/>
+
+**İş stratejisi, IT operasyonları ve ürün mühendisliğinin** kesişiminde çalışıyorum. **SaSa Yazılım'ın kurucusu** olarak, bir iş yönetim platformunu boş bir sayfadan, birden fazla şirkete satılan canlı ve gelir üreten bir ERP'ye taşıdım — bu süreç boyunca proje yöneticisi, IT yöneticisi ve baş mühendis rollerini aynı anda üstlendim.
+
+Teknolojiyi kendi adına yapmıyorum. Bir işletmenin **operasyonlarını gerçekten üzerinde yürütebileceği sistemi** kuruyorum ve projeyi gerçekten teslim edilecek şekilde yönetiyorum.
+
+</details>
 
 ---
 
-<h2 align="center">💬 Kısaca / In Short</h2>
+## 🧭 Core Competencies
+
+<details open>
+<summary><b>🇬🇧 English</b></summary>
+<br/>
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**🇹🇷**
-İş stratejisi, IT operasyonları ve ürün mühendisliğinin kesişiminde çalışıyorum. SaSa Yazılım'ın kurucusu olarak bir ERP'yi boş sayfadan, birden fazla şirkete satılan canlı bir ürüne taşıdım.
-
-Teknolojiyi kendi adına yapmıyorum; bir işletmenin operasyonlarını üzerinde yürütebileceği sistemi kuruyorum.
+**📋 Project Management**
+- Scoping, planning and delivery for both internal product and client engagements
+- Stakeholder management across founders, operations teams and end users
+- Iterative delivery — shipping, measuring, refining
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**🇬🇧**
-I work at the intersection of business strategy, IT operations and product engineering. As founder of SaSa Yazılım, I took an ERP from a blank page to a revenue-generating product sold across multiple companies.
+**🖥️ IT Management**
+- Multi-tenant infrastructure and deployment automation
+- Server operations, backups, and environment configuration
+- Security, uptime and operational continuity across client instances
 
-I don't build technology for its own sake — I build the system a business actually runs on.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🏗️ ERP & Business Systems**
+- Architecting systems that unify Sales, Finance, Inventory, CRM and Operations
+- Multi-provider integration design (e-invoice, ERP, e-commerce APIs)
+- Commission, pricing and reporting logic built around real business rules
+
+</td>
+<td width="50%" valign="top">
+
+**🚀 Product Ownership**
+- Roadmap, positioning and go-to-market
+- Competitive positioning against established market players
+- Investor-facing materials, demos and corporate branding
 
 </td>
 </tr>
 </table>
 
----
+</details>
 
-<h2 align="center">🧭 Nasıl Çalışıyorum / How I Work</h2>
+<details>
+<summary><b>🇹🇷 Türkçe</b></summary>
+<br/>
 
 <table>
-<thead>
-<tr><th align="left">Aşama</th><th align="left">Ne yapıyorum</th></tr>
-</thead>
-<tbody>
-<tr><td>🔍 Keşif</td><td>Önce operasyonu anlarım — sistem bundan sonra gelir</td></tr>
-<tr><td>🏗️ Mimari</td><td>Sağlayıcı-bağımsız, genişletilebilir yapılar kurarım (factory/interface pattern)</td></tr>
-<tr><td>⚙️ Operasyon</td><td>Deployment'ı otomatikleştirir, çok müşterili altyapıyı ayakta tutarım</td></tr>
-<tr><td>📈 Pazar</td><td>Ürünü konumlandırır, yatırımcı ve müşteri materyallerini hazırlarım</td></tr>
-</tbody>
+<tr>
+<td width="50%" valign="top">
+
+**📋 Proje Yönetimi**
+- Hem iç ürün hem müşteri projeleri için kapsam belirleme, planlama ve teslimat
+- Kurucular, operasyon ekipleri ve son kullanıcılar arasında paydaş yönetimi
+- Yinelemeli teslimat — geliştirme, ölçme, iyileştirme
+
+</td>
+<td width="50%" valign="top">
+
+**🖥️ IT Yönetimi**
+- Çok müşterili altyapı ve deployment otomasyonu
+- Sunucu operasyonları, yedeklemeler ve ortam yapılandırması
+- Müşteri bazında güvenlik, uptime ve operasyonel süreklilik
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🏗️ ERP & İş Sistemleri**
+- Satış, Finans, Stok, CRM ve Operasyonu birleştiren sistemlerin mimarisi
+- Çoklu sağlayıcı entegrasyon tasarımı (e-fatura, ERP, e-ticaret API'leri)
+- Gerçek iş kurallarına dayalı komisyon, fiyatlandırma ve raporlama mantığı
+
+</td>
+<td width="50%" valign="top">
+
+**🚀 Ürün Sahipliği**
+- Yol haritası, konumlandırma ve pazara sunum
+- Yerleşik pazar oyuncularına karşı rekabetçi konumlandırma
+- Yatırımcı sunumları, demolar ve kurumsal marka çalışmaları
+
+</td>
+</tr>
 </table>
+
+</details>
 
 ---
 
-<h2 align="center">🚀 Amiral Gemisi — SaSa ERP</h2>
+## 🚀 Flagship Product — SaSa ERP
 
-<div align="center">
+**A comprehensive business management platform — conceived, built and led end-to-end.**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
@@ -71,77 +148,43 @@ I don't build technology for its own sake — I build the system a business actu
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-</div>
+**Modules:** Sales · Inventory · Finance · CRM · E-Commerce · E-Invoice (e-Fatura) · Reporting
 
-<table>
-<thead>
-<tr><th align="left">Modül</th><th align="left">Detay</th></tr>
-</thead>
-<tbody>
-<tr><td>🏛️ Mimari</td><td>Factory/interface pattern üzerine kurulu çoklu sağlayıcı e-fatura sistemi</td></tr>
-<tr><td>⚙️ Deployment</td><td>Müşteri başına izole, otomatik kurulum script'leri</td></tr>
-<tr><td>📱 Mobil</td><td>Capacitor ile native Android/iOS, push notification ve cihaz entegrasyonları</td></tr>
-<tr><td>📈 Pazar</td><td>Türkiye SME pazarında SAP, Logo ve Netsis'e alternatif olarak konumlandırma</td></tr>
-<tr><td>💼 Kapsam</td><td>Satış · Stok · Finans · CRM · E-Ticaret · E-Fatura · Raporlama</td></tr>
-</tbody>
-</table>
+**What I own on this product:**
+- 🏛️ **Architecture** — multi-provider e-invoice system built on a factory/interface pattern, extended across providers without touching core logic
+- ⚙️ **Operations** — automated per-client deployment tooling for isolated, single-tenant instances
+- 📱 **Mobile** — native Android/iOS distribution via Capacitor, with push notifications and device-level integrations
+- 📈 **Go-to-market** — positioned as a modern, migration-friendly alternative to established players like **SAP, Logo and Netsis** for Turkey's SME market, backed by investor decks and a dedicated corporate site
 
 ---
 
-<h2 align="center">🏢 Çekirdek Ürünün Ötesinde</h2>
+## 🏢 Beyond the Core Product
 
-<table>
-<thead>
-<tr><th align="left">Proje</th><th align="left">Ne İçeriyor</th></tr>
-</thead>
-<tbody>
-<tr>
-<td><b>Sabaş</b><br/>Beko · İstikbal · Kelebek</td>
-<td>E-ticaret platformu, ERP/API entegrasyonları (Entegra, DIA), fiyat zekası, sunucu operasyonları, çok şubeli komisyon sistemleri</td>
-</tr>
-<tr>
-<td><b>Teknik liderlik projeleri</b></td>
-<td>Tarımsal üretim yönetimi, lojistik/dispatch takibi ve dikey SaaS araçları — her projede önce operasyon anlaşılır, sistem sonra tasarlanır</td>
-</tr>
-</tbody>
-</table>
-
----
-
-<h2 align="center">🛠️ Teknoloji Yığını</h2>
-
-<div align="center">
-
-**Backend**
+**Sabaş** — *Multi-branch retail (home appliances & furniture: Beko, İstikbal, Kelebek)*
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Frontend**
-![Vue.js](https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- Own the full technology layer: e-commerce platform, ERP/API integrations (Entegra, DIA), pricing intelligence, and server operations
+- Built commission calculation systems spanning multiple branches with threshold-based bonuses and brand-specific rules
+
+**Selective technical leadership engagements**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
-**Mobile & Infra**
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-
-</div>
+- Brought in as technical/project lead across agricultural production management, logistics/dispatch tracking, and vertical SaaS tools — every engagement led with the same discipline: understand the operation first, then design the system around it
 
 ---
 
-<blockquote align="center">
-<b>Teknoloji amaç değil. Doğru problemi çözmek amaçtır.</b><br/>
-<i>Technology is not the goal. Solving the right problem is.</i>
-</blockquote>
+## 🧠 Approach
+
+> **Technology is not the goal. Solving the right problem is.**
+
+Every engagement is measured against one standard — does it make the business **simpler, faster, and more measurable.**
+
+---
 
 <div align="center">
 
 **UNITENIST** — *Unite Ideas. Build the Future.*
-
-<a href="https://unitenist.com" target="_blank">unitenist.com</a> ·
-<a href="https://sasayazilim.com" target="_blank">sasayazilim.com</a> ·
-<a href="https://www.linkedin.com/in/sermetsandikci/" target="_blank">LinkedIn</a>
 
 </div>
