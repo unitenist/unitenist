@@ -14,7 +14,8 @@
 
 <a href="https://unitenist.com" target="_blank">
   <img src="https://img.shields.io/badge/unitenist.com-0D9488?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
-</a>[Website](https://img.shields.io/badge/sasayazilim.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://sasayazilim.com)
+</a>
+[![Website](https://img.shields.io/badge/sasayazilim.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://sasayazilim.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sermetsandikci/)
 
 </div>
