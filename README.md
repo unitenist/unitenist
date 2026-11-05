@@ -1,6 +1,7 @@
 <div align="center">
 # Sermet Sandıkcı
 **Founder · Software Architect · Technology Leader**
+  
 *Unite Ideas. Build the Future.*
 [![Website](https://img.shields.io/badge/UNITENIST-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://unitenist.com)
 [![SaSa Software](https://img.shields.io/badge/SaSa_Software-0D9488?style=flat-square&logo=googlechrome&logoColor=white)](https://sasayazilim.com)
