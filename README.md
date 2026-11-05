@@ -8,10 +8,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sermetsandikci/)
 </div>
 ---
+
 ### About / Hakkımda
+
 🇬🇧 **EN** — Founder of **UNITENIST** and **SaSa Yazılım**. Software architect and technology leader specializing in ERP, SaaS, enterprise solutions, and digital transformation. Turning complex business needs into scalable software.
+
 🇹🇷 **TR** — **UNITENIST** ve **SaSa Yazılım** kurucusu. ERP, SaaS, kurumsal yazılım ve dijital dönüşüm alanlarında çalışan yazılım mimarı ve teknoloji yöneticisi. Karmaşık iş ihtiyaçlarını ölçeklenebilir yazılım çözümlerine dönüştürüyorum.
 ### Tech Stack / Teknolojiler
+
 <div align="center">
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
